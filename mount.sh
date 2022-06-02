@@ -9,4 +9,4 @@ sudo mount /dev/sda2 2
 sudo mount /dev/sda3 3
 sudo mount /dev/sda4 4
 
-sudo pacman -S syncthing
+sudo pacman -Sy syncthing
