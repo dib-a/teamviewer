@@ -1,5 +1,5 @@
 #!/bin/bash
-cd
+cd ~
 mkdir mem
 cd mem
 mkdir 2
