@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /opt
+cd ~
 git clone https://aur.archlinux.org/teamviewer.git
 cd teamviewer
 sudo pacman -Sy qt5-webkit
